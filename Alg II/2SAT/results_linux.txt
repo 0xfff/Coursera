@@ -1,0 +1,15 @@
+2sat1 15:02:08 - 15:17:08   15 mins. checks out
+2sat2 15:17:51 - 16:21:21   64 mins SCC with leader 378410 reported FALSE
+2sat2 18:49:58 - 20:00:27  SCC with leader 134592 reported FALSE
+
+2sat3 20:15:22 - 22:14:06  checks out
+2sat4 20:19:33 - 00:17:00 checks out
+2sat5 22:27:56 - 00:30:44  vertex 1023530 & its complement.  FALSE
+2sat6 00:38:45 - vertex 1410420 & its complement.  FALSE
+
+
+binary string: 101100
+
+
+2sat3.txt, number of clauses = 400000
+Sun Jan 27 16:22:52 - Sun Jan 27 21:53:40 PST 2013

@@ -1,0 +1,43 @@
+Tue Jan 22 11:07:42 PST 2013
+
+Working...
+number of vertices 24
+SUBSETS
+num_of_subsets 8388608
+
+Final TSP tour = 72191.664
+MATRIX A
+
+Tue Jan 22 11:50:09 PST 2013
+
+
+
+Tue Jan 22 14:12:06 PST 2013
+
+Working... 
+number of vertices 25
+SUBSETS
+num_of_subsets 16777216
+
+Final TSP tour = 20859.64
+MATRIX A
+
+Tue Jan 22 14:27:06 PST 2013
+
+
+number of vertices 21
+Final TSP tour = 24146.203   check
+
+
+number of vertices 22
+Final TSP tour = 24474.9  check
+
+number of vertices 23
+Final TSP tour = 24522.408
+
+number of vertices 23
+Final TSP tour = 26391.709
+
+number of vertices 23
+Final TSP tour = 26442.727
+
